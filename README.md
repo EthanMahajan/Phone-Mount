@@ -84,7 +84,7 @@ The holder has some play, and touching the base introduces visible shake. The mo
 
 | Folder          | Intended contents                                  |
 | --------------- | -------------------------------------------------- |
-| `cad/`          | Native Fusion 360 source files (`.f3d` or `.f3z`)  |
+| `cad/`          | Native Fusion 360 source files (`.f3d`)  |
 | `exports/step/` | STEP assembly and component exports                |
 | `exports/stl/`  | Printable STL files                                |
 | `docs/images/`  | Concept, CAD, slicing, and prototype documentation |
